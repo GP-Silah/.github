@@ -1,4 +1,7 @@
-# Silah
+# Silah — Connecting Businesses
+
+> **Silah** (Arabic: صِلَة)  
+> *[noun]* Connection, bond, link; often used to describe the ties between people, family, or communities.
 
 **Silah** is an AI-augmented full-stack B2B web platform that connects suppliers and buyers.
 Suppliers can showcase their products and services, while buyers can place orders or submit requests for proposals (RFPs).

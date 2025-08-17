@@ -50,4 +50,4 @@ Suppliers can showcase their products and services, while buyers can place order
 
 ---
 
-> Built with care as part of a graduation project by a passionate team.
+> Built with care as part of a graduation project by an amazing team.
